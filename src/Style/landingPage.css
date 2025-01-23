@@ -1,0 +1,48 @@
+.myBG {
+    height: 100vh;
+    background: url("../Asset/Image/Backgroinf/BG2.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.tittle {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+    text-justify: auto;
+}
+
+.trending {
+    height: auto;
+    background-color: black;
+    background-size: cover;
+}
+
+.horor {
+    height: auto;
+    background-color: black;
+    background-size: cover;
+}
+
+.movieWrapper {
+
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.imagaes {
+    height: 500px;
+}
